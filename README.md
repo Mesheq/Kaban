@@ -1,5 +1,5 @@
 <h1>
-  Elo Elo
+  Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -16,3 +16,4 @@ jak odpalić projekt?
   https://play.google.com/store/apps/details?id=host.exp.exponent&gl=US (android)
 - odpalić aplikacjie na telefonie i zeskanować kod QR z terminala / można odpalić na emulatorze android studio  
 
+#Created By Dawid Szmigiel, Paweł Szołtysik, Oskar Wezner and Krzysztof Rzym
